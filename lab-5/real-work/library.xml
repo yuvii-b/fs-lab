@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <books>
+        <book>
+            <id>1</id>
+            <name>JavaScript Fundamentals</name>
+            <author>John Doe</author>
+            <category>Programming</category>
+            <status>Available</status>
+        </book>
+
+        <book>
+            <id>2</id>
+            <name>Electrical Machines</name>
+            <author>R. K. Rajput</author>
+            <category>Electrical</category>
+            <status>Issued</status>
+        </book>
+
+        <book>
+            <id>3</id>
+            <name>Introduction to Robotics</name>
+            <author>Saif Hussain</author>
+            <category>Robotics</category>
+            <status>Available</status>
+        </book>
+
+        <book>
+            <id>4</id>
+            <name>Aerospace Engineering</name>
+            <author>Dr. V. K. Sharma</author>
+            <category>Aerospace</category>
+            <status>Available</status>
+        </book>
+
+        <book>
+            <id>5</id>
+            <name>Advanced Programming Concepts</name>
+            <author>Herbert Schildt</author>
+            <category>Programming</category>
+            <status>Issued</status>
+        </book>
+    </books>
+</library>

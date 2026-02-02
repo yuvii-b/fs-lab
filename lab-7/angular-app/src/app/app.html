@@ -1,0 +1,3 @@
+<h1>Todo App</h1>
+<app-add-item (todoAdded)="onTodoAdded($event)"></app-add-item>
+<app-list-item [todos]="todos" (toggleDone)="onToggleDone($event)"></app-list-item>

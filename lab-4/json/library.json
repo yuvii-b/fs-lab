@@ -1,0 +1,41 @@
+{
+    "library":{
+        "books": [
+            {
+                "id": "1",
+                "name": "JavaScript Fundamentals",
+                "author": "John Doe",
+                "category": "Programming",
+                "status": "Available"
+            },
+            {
+                "id": "2",
+                "name": "Electrical Machines",
+                "author": "R. K. Rajput",
+                "category": "Electrical",
+                "status": "Issued"
+            },
+            {
+                "id": "3",
+                "name": "Introduction to Robotics",
+                "author": "Saif Hussain",
+                "category": "Robotics",
+                "status": "Available"
+            },
+            {
+                "id": "4",
+                "name": "Aerospace Engineering",
+                "author": "Dr. V. K. Sharma",
+                "category": "Aerospace",
+                "status": "Available"
+            },
+            {
+                "id": "5",
+                "name": "Advanced Programming Concepts",
+                "author": "Herbert Schildt",
+                "category": "Programming",
+                "status": "Issued"
+            }
+        ]
+    }
+}

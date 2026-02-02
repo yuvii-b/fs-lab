@@ -1,0 +1,7 @@
+<h2>TODO ITEMS</h2>
+<ol>
+    <li *ngFor="let todo of todos; let i = index">
+        <span [class.done]="todo.done">{{ todo.text }}</span> 
+        <button (click)="markDone(i)"> {{ todo.done ? 'Undo' : 'Done' }}</button>
+    </li>
+</ol>
