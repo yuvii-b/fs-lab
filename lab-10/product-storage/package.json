@@ -1,0 +1,21 @@
+{
+  "name": "product-storage",
+  "version": "1.0.0",
+  "description": "Program that stores and retrieves product data using mongodb",
+  "license": "ISC",
+  "author": "Yuvi (2024503541)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
